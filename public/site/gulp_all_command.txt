@@ -1,0 +1,4 @@
+gulp default				- start gulp
+gulp build					- build project
+gulp htmlbeautify		- html beautify, use before build
+gulp fonts					- convert font to woff, oet, woff2
